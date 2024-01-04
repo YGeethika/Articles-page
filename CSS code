@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    height: 125vh;
+    background-size: cover;
+    background-color: #225db0;
+}
+
+.Main-heading {
+    color: #ffffff;
+    padding-left: 40px;
+    padding-top: 40px;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.Main-para {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Roboto";
+    padding-left: 40px;
+}
+
+.Images {
+    height: 40px;
+    width: 40px;
+    margin-left: 50px;
+}
+
+.card {
+    border-radius: 8px;
+    height: 15vh;
+    width: 25vh;
+    margin: 20px;
+}
+
+.sub-heading {
+    color: #1f2933;
+    font-size: 15px;
+    font-family: "Roboto";
+    margin-top: 10px;
+}
+
+.Main-list {
+    color: #ffffff;
+}
+
+.item {
+    margin: 10px;
+}
+
+.button {
+    background-color: #225db0;
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+.carousel-inner {
+    padding: 25px;
+}
